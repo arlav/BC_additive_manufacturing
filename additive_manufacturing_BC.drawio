@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T14:30:07.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Wf9UKCTkZLA-O8Jb0eiF" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T14:31:03.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="PKHhNoMatDjPEmmbty3A" version="23.1.6" type="github">
   <diagram name="Page-1" id="CnH4htmtNgGSPUK8ETjm">
     <mxGraphModel dx="2546" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,6 +368,15 @@
         </mxCell>
         <mxCell id="jeRSJjLa0ovhnAuYq3oW-37" value="Supply Chain &amp;amp; Circular Economy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-580" y="1230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jeRSJjLa0ovhnAuYq3oW-38" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="1420" width="400" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jeRSJjLa0ovhnAuYq3oW-39" value="(Common) Pool of Fungible components&lt;br&gt;Physical Level" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jeRSJjLa0ovhnAuYq3oW-40" value="Crypto-Twin of the architecture process." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
