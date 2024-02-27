@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T15:39:23.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dNYySL1q2e9MI7EjBr2X" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T15:57:54.556Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pJR-D9EqyAaWMkLtl8Dc" version="23.1.6" type="github">
   <diagram name="Page-1" id="CnH4htmtNgGSPUK8ETjm">
-    <mxGraphModel dx="2587" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2258" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,6 +330,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jeRSJjLa0ovhnAuYq3oW-46" value="Check if component is&lt;br&gt;printable-&amp;nbsp;&lt;br&gt;offer alternatives?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jeRSJjLa0ovhnAuYq3oW-29">
+          <mxGeometry x="0.0956" y="2" relative="1" as="geometry">
+            <mxPoint y="46" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jeRSJjLa0ovhnAuYq3oW-31" value="Create New Fungible Token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
@@ -391,6 +396,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-240" y="1120" as="sourcePoint" />
             <mxPoint x="-250" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeRSJjLa0ovhnAuYq3oW-44" value="Validators" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jeRSJjLa0ovhnAuYq3oW-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jeRSJjLa0ovhnAuYq3oW-44" target="jeRSJjLa0ovhnAuYq3oW-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="1640" as="sourcePoint" />
+            <mxPoint x="-250" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
