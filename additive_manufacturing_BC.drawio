@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T19:17:38.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QI948kZqMwGA8UKPum-f" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T19:39:25.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="iiTT9-S_oyRnwH9fYvJ4" version="24.0.0" type="github">
   <diagram name="Page-1" id="CnH4htmtNgGSPUK8ETjm">
-    <mxGraphModel dx="5852" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4398" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2770" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="jeRSJjLa0ovhnAuYq3oW-27" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-550" y="1420" width="400" height="290" as="geometry" />
         </mxCell>
@@ -595,6 +598,66 @@
         </mxCell>
         <mxCell id="10ofLEYbbgX8QhPKbUTx-54" value="Fabricated Component" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1970" y="1340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-55" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-3100" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-56" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-2944" y="775" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="10ofLEYbbgX8QhPKbUTx-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3050" y="840" as="sourcePoint" />
+            <mxPoint x="-2830" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-58" value="Designs a component that is printable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3040" y="775" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-59" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2500" y="745" width="337" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-60" value="Common Pool of Fungible Token Components&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2361.5" y="805" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-62" value="check if the token already exists" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2750" y="845" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-65" value="If yes, then nothing happens" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2740" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.973;exitY=0.557;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-56" target="10ofLEYbbgX8QhPKbUTx-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2730" y="970" as="sourcePoint" />
+            <mxPoint x="-2680" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.084;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-70" target="10ofLEYbbgX8QhPKbUTx-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2730" y="970" as="sourcePoint" />
+            <mxPoint x="-2680" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2730" y="970" as="sourcePoint" />
+            <mxPoint x="-2710" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-75" value="If no,&amp;nbsp;&lt;div&gt;then component&lt;/div&gt;&lt;div&gt;gets added to the pool&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2630" y="805" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2560" y="860" as="sourcePoint" />
+            <mxPoint x="-3080" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2700" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-80" value="NFT and FT&amp;nbsp;&amp;nbsp;&lt;div&gt;reward&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="930" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
