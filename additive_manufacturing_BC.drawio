@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T19:42:50.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RVXCvT6inu_QU3iw5A3W" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T19:43:57.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WvfNXQgNhcPsONqSjV4r" version="24.0.0" type="github">
   <diagram name="Page-1" id="CnH4htmtNgGSPUK8ETjm">
-    <mxGraphModel dx="4398" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5070" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -664,6 +664,24 @@
         </mxCell>
         <mxCell id="10ofLEYbbgX8QhPKbUTx-82" value="pays for the chcek" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2860" y="815" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-84" value="Hey guys, I wrote part of the printability and I will soon put it to the Draft page. I have also been thinking about validator who approves or rejects designs from the perspective of manufacturability. I think it might work in this way: designer publishes design to our database, design is analysed from manufacturability perspective by validator. For validating he is eligible to gain reward, but until the design is succefully manufactured, reward is locked in staking contract and validator receives only staking rewards. If manufacturing happens successfully, reward is unlocked. In the case of manufacturing issue, reward is given to manufacturer as reimbursement for material, use of his machines. Validator voting power is then reduced. This solution prevents the database to be spammed with obviously bad design(for publishing to database, designers always have to pay)&amp;nbsp; and disinectivises bad validators. When the database will sonatina a lot of designs and feedback, we can use ai instead of human validator. Then our platform would earn higher revenue and it might be also interesting business plan for some investors :D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3260" y="555" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=5;strokeColor=#FF0000;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2920" y="780" as="sourcePoint" />
+            <mxPoint x="-2890" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.459;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF3333;strokeWidth=6;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2490" y="1570" as="sourcePoint" />
+            <mxPoint x="-2420" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-87" value="describe how these are placed in smart contracts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="1694" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
