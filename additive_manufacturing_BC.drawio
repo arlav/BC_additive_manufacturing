@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T15:05:02.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sON4D8FY2g2_OrfRLrJ4" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T15:08:27.715Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3lc17tuozGcH_NLwL5Cz" version="24.0.1" type="github">
   <diagram name="Page-1" id="CnH4htmtNgGSPUK8ETjm">
     <mxGraphModel dx="4973" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
             <mxPoint x="-2792" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-35" value="Full 3d model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-35" value="Full 3d model -&amp;nbsp;&lt;div&gt;or sub-assembly&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3142" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10ofLEYbbgX8QhPKbUTx-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-35" target="10ofLEYbbgX8QhPKbUTx-32" edge="1">
@@ -748,6 +748,25 @@
         </mxCell>
         <mxCell id="Chfow_NM1OoRrulX9sB1-24" value="the spatial combination of fungible Components is Non-Fungible-&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Component is fungible / assembly is Non-fungible&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2560" y="1169" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Chfow_NM1OoRrulX9sB1-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3200" y="1490" as="sourcePoint" />
+            <mxPoint x="-2690" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2830" y="1530" />
+              <mxPoint x="-2940" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Chfow_NM1OoRrulX9sB1-26" value="Top Down - Non-Fungible&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fungible components that clip-in&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3060" y="1400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Chfow_NM1OoRrulX9sB1-27" value="Elemental&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2820" y="1500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Chfow_NM1OoRrulX9sB1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Chfow_NM1OoRrulX9sB1-26" target="Chfow_NM1OoRrulX9sB1-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
