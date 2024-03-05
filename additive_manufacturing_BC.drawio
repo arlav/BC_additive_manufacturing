@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T19:43:57.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WvfNXQgNhcPsONqSjV4r" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T14:51:13.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vQWU5n9-86Cyc-A9v1h0" version="24.0.1" type="github">
   <diagram name="Page-1" id="CnH4htmtNgGSPUK8ETjm">
-    <mxGraphModel dx="5070" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4745" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2770" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jeRSJjLa0ovhnAuYq3oW-27" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -410,244 +410,244 @@
             <mxPoint x="-250" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="1820" width="650" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-1050" y="1980" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-3" value="Shape of Column- geometry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-3" value="Shape of Column- geometry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1050" y="1930" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-4" value="Smart Contract for Fungible Columns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-4" value="Smart Contract for Fungible Columns" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-5" value="IPFS CID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-5" value="IPFS CID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1050" y="2180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-6" value="G-Code for Production" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-6" value="G-Code for Production" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-900" y="2050" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-2" target="10ofLEYbbgX8QhPKbUTx-6">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-2" target="10ofLEYbbgX8QhPKbUTx-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-830" y="2200" as="sourcePoint" />
             <mxPoint x="-780" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-8" value="3d printing Setup" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-8" value="3d printing Setup" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-780" y="1990" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-6" target="10ofLEYbbgX8QhPKbUTx-8">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-6" target="10ofLEYbbgX8QhPKbUTx-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-830" y="2200" as="sourcePoint" />
             <mxPoint x="-780" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-5" target="10ofLEYbbgX8QhPKbUTx-2">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-5" target="10ofLEYbbgX8QhPKbUTx-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-830" y="2200" as="sourcePoint" />
             <mxPoint x="-780" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-11" value="IPFS CID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-11" value="IPFS CID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-770" y="2180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-8" target="10ofLEYbbgX8QhPKbUTx-11">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-8" target="10ofLEYbbgX8QhPKbUTx-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-830" y="2200" as="sourcePoint" />
             <mxPoint x="-780" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-14" value="turtle or rdf/xml" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-14" value="turtle or rdf/xml" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1290" y="1940" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2360" y="1250" width="160" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-26" target="10ofLEYbbgX8QhPKbUTx-25">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-26" target="10ofLEYbbgX8QhPKbUTx-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1590" y="930" as="sourcePoint" />
             <mxPoint x="-1530" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-19" value="Geometry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-19" value="Geometry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2340" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-20" value="Material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-20" value="Material" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2340" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-21" value="Production method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-21" value="Production method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2340" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-28" target="10ofLEYbbgX8QhPKbUTx-19">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-28" target="10ofLEYbbgX8QhPKbUTx-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2430" y="1400.0000000000002" as="sourcePoint" />
             <mxPoint x="-2210" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-28" target="10ofLEYbbgX8QhPKbUTx-20">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-28" target="10ofLEYbbgX8QhPKbUTx-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2430" y="1415.0000000000002" as="sourcePoint" />
             <mxPoint x="-2210" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-28" target="10ofLEYbbgX8QhPKbUTx-21">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-28" target="10ofLEYbbgX8QhPKbUTx-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2460" y="1430.0000000000002" as="sourcePoint" />
             <mxPoint x="-2210" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-25" value="Full 3d model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-25" value="Full 3d model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1560" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-26" value="Spaces &amp;amp; Spatial Topology" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-26" value="Spaces &amp;amp; Spatial Topology" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1560" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-27" value="Basic Components&lt;br&gt;and Elements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-27" value="Basic Components&lt;br&gt;and Elements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2750" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-28" value="Design Decision on Fabrication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-28" value="Design Decision on Fabrication" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2580" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-29" value="Graph of spaces" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-29" value="Graph of spaces" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2890" y="1250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-27" target="10ofLEYbbgX8QhPKbUTx-28">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-27" target="10ofLEYbbgX8QhPKbUTx-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2470" y="1310" as="sourcePoint" />
             <mxPoint x="-2420" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-32" value="Spaces &amp;amp; Spatial Topology" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-32" value="Spaces &amp;amp; Spatial Topology" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2920" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-32" target="10ofLEYbbgX8QhPKbUTx-27">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-32" target="10ofLEYbbgX8QhPKbUTx-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2660" y="1300" as="sourcePoint" />
             <mxPoint x="-2610" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-32" target="10ofLEYbbgX8QhPKbUTx-29">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-32" target="10ofLEYbbgX8QhPKbUTx-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2790" y="1310" as="sourcePoint" />
             <mxPoint x="-2740" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-35" value="Full 3d model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-35" value="Full 3d model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3090" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-35" target="10ofLEYbbgX8QhPKbUTx-32">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-35" target="10ofLEYbbgX8QhPKbUTx-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3010" y="1290" as="sourcePoint" />
             <mxPoint x="-2960" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-39" value="Assembly graph of components" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-39" value="Assembly graph of components" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2720" y="1240" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-27" target="10ofLEYbbgX8QhPKbUTx-39">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-27" target="10ofLEYbbgX8QhPKbUTx-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2810" y="1320" as="sourcePoint" />
             <mxPoint x="-2760" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-41" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-41" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2270" y="1059" width="337" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-42" value="Common Pool of Fungible Token Components&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-42" value="Common Pool of Fungible Token Components&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2153" y="1124" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-42" target="10ofLEYbbgX8QhPKbUTx-42">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-42" target="10ofLEYbbgX8QhPKbUTx-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-44" value="Data Level" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-44" value="Data Level" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2110" y="1029" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-15" target="10ofLEYbbgX8QhPKbUTx-41">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-15" target="10ofLEYbbgX8QhPKbUTx-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2120" y="1310" as="sourcePoint" />
             <mxPoint x="-2070" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-46" value="check if the token already exists" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-46" value="check if the token already exists" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2180" y="1240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-41">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1940" y="1290" as="sourcePoint" />
             <mxPoint x="-1920" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-49" value="if yes,&amp;nbsp;&lt;div&gt;then proceed with fabrication, rewarding the original creator&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-49" value="if yes,&amp;nbsp;&lt;div&gt;then proceed with fabrication, rewarding the original creator&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2050" y="1260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-50" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-50" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-1780" y="1000" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="10ofLEYbbgX8QhPKbUTx-52">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-51" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="10ofLEYbbgX8QhPKbUTx-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1960" y="1230" as="sourcePoint" />
             <mxPoint x="-1830" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-52" value="Token&amp;nbsp;&lt;div&gt;paymement&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-52" value="Token&amp;nbsp;&lt;div&gt;paymement&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1850" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-53" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-53" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-1900" y="1290" width="60" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-54" value="Fabricated Component" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-54" value="Fabricated Component" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1970" y="1340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-55" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-55" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-3100" y="800" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-56" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-56" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-2944" y="775" width="60" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="10ofLEYbbgX8QhPKbUTx-56">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-57" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="10ofLEYbbgX8QhPKbUTx-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3050" y="840" as="sourcePoint" />
             <mxPoint x="-2830" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-58" value="Designs a component that is printable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-58" value="Designs a component that is printable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3040" y="775" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-59" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-59" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2500" y="745" width="337" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-60" value="Common Pool of Fungible Token Components&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-60" value="Common Pool of Fungible Token Components&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2361.5" y="805" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-62" value="check if the token already exists" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-62" value="check if the token already exists" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2750" y="845" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-65" value="If yes, then nothing happens" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-65" value="If yes, then nothing happens" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2740" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.973;exitY=0.557;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-56" target="10ofLEYbbgX8QhPKbUTx-70">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.973;exitY=0.557;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-56" target="10ofLEYbbgX8QhPKbUTx-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2730" y="970" as="sourcePoint" />
             <mxPoint x="-2680" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.084;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-70" target="10ofLEYbbgX8QhPKbUTx-59">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.084;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-70" target="10ofLEYbbgX8QhPKbUTx-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2730" y="970" as="sourcePoint" />
             <mxPoint x="-2680" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-70">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="10ofLEYbbgX8QhPKbUTx-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2730" y="970" as="sourcePoint" />
             <mxPoint x="-2710" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-75" value="If no,&amp;nbsp;&lt;div&gt;then component&lt;/div&gt;&lt;div&gt;gets added to the pool&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-75" value="If no,&amp;nbsp;&lt;div&gt;then component&lt;/div&gt;&lt;div&gt;gets added to the pool&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2630" y="805" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2560" y="860" as="sourcePoint" />
             <mxPoint x="-3080" y="900" as="targetPoint" />
@@ -656,32 +656,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-80" value="NFT and FT&amp;nbsp;&amp;nbsp;&lt;div&gt;reward&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-80" value="NFT and FT&amp;nbsp;&amp;nbsp;&lt;div&gt;reward&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2850" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-81" value="Hey guys, I wrote part of the printability and I will soon put it to the Draft page. I have also been thinking about validator who approves or rejects designs from the perspective of manufacturability. I think it might work in this way: designer publishes design to our database, design is analysed from manufacturability perspective by validator. For validating he is eligible to gain reward, but until the design is succefully manufactured, reward is locked in staking contract and validator receives only staking rewards. If manufacturing happens successfully, reward is unlocked. In the case of manufacturing issue, reward is given to manufacturer as reimbursement for material, use of his machines. Validator voting power is then reduced. This solution prevents the database to be spammed with obviously bad design(for publishing to database, designers always have to pay)&amp;nbsp; and disinectivises bad validators. When the database will sonatina a lot of designs and feedback, we can use ai instead of human validator. Then our platform would earn higher revenue and it might be also interesting business plan for some investors :D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-81" value="Hey guys, I wrote part of the printability and I will soon put it to the Draft page. I have also been thinking about validator who approves or rejects designs from the perspective of manufacturability. I think it might work in this way: designer publishes design to our database, design is analysed from manufacturability perspective by validator. For validating he is eligible to gain reward, but until the design is succefully manufactured, reward is locked in staking contract and validator receives only staking rewards. If manufacturing happens successfully, reward is unlocked. In the case of manufacturing issue, reward is given to manufacturer as reimbursement for material, use of his machines. Validator voting power is then reduced. This solution prevents the database to be spammed with obviously bad design(for publishing to database, designers always have to pay)&amp;nbsp; and disinectivises bad validators. When the database will sonatina a lot of designs and feedback, we can use ai instead of human validator. Then our platform would earn higher revenue and it might be also interesting business plan for some investors :D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3308" y="1650" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-82" value="pays for the chcek" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-82" value="pays for the check-control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2860" y="815" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-84" value="Hey guys, I wrote part of the printability and I will soon put it to the Draft page. I have also been thinking about validator who approves or rejects designs from the perspective of manufacturability. I think it might work in this way: designer publishes design to our database, design is analysed from manufacturability perspective by validator. For validating he is eligible to gain reward, but until the design is succefully manufactured, reward is locked in staking contract and validator receives only staking rewards. If manufacturing happens successfully, reward is unlocked. In the case of manufacturing issue, reward is given to manufacturer as reimbursement for material, use of his machines. Validator voting power is then reduced. This solution prevents the database to be spammed with obviously bad design(for publishing to database, designers always have to pay)&amp;nbsp; and disinectivises bad validators. When the database will sonatina a lot of designs and feedback, we can use ai instead of human validator. Then our platform would earn higher revenue and it might be also interesting business plan for some investors :D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-84" value="Hey guys, I wrote part of the printability and I will soon put it to the Draft page. I have also been thinking about validator who approves or rejects designs from the perspective of manufacturability. I think it might work in this way: designer publishes design to our database, design is analysed from manufacturability perspective by validator. For validating he is eligible to gain reward, but until the design is succefully manufactured, reward is locked in staking contract and validator receives only staking rewards. If manufacturing happens successfully, reward is unlocked. In the case of manufacturing issue, reward is given to manufacturer as reimbursement for material, use of his machines. Validator voting power is then reduced. This solution prevents the database to be spammed with obviously bad design(for publishing to database, designers always have to pay)&amp;nbsp; and disinectivises bad validators. When the database will sonatina a lot of designs and feedback, we can use ai instead of human validator. Then our platform would earn higher revenue and it might be also interesting business plan for some investors :D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3260" y="555" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=5;strokeColor=#FF0000;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-70">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=5;strokeColor=#FF0000;" parent="1" source="10ofLEYbbgX8QhPKbUTx-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2920" y="780" as="sourcePoint" />
             <mxPoint x="-2890" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.459;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF3333;strokeWidth=6;" edge="1" parent="1" source="10ofLEYbbgX8QhPKbUTx-15">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.459;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF3333;strokeWidth=6;" parent="1" source="10ofLEYbbgX8QhPKbUTx-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2490" y="1570" as="sourcePoint" />
             <mxPoint x="-2420" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-87" value="describe how these are placed in smart contracts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="10ofLEYbbgX8QhPKbUTx-87" value="describe how these are placed in smart contracts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2510" y="1694" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Chfow_NM1OoRrulX9sB1-1" value="then for Each component:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2550" y="1290" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
