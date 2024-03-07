@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T16:12:17.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="44kzjQt3SP8AQE2NEmS8" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T16:21:30.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="czoYn6KhjrGAAi8yzWbw" version="24.0.1" type="github">
   <diagram name="Page-1" id="CnH4htmtNgGSPUK8ETjm">
-    <mxGraphModel dx="6006" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6860" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -671,14 +671,8 @@
             <mxPoint x="-2890" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10ofLEYbbgX8QhPKbUTx-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.459;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF3333;strokeWidth=6;" parent="1" source="10ofLEYbbgX8QhPKbUTx-15" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2542" y="2340" as="sourcePoint" />
-            <mxPoint x="-2472" y="2440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="10ofLEYbbgX8QhPKbUTx-87" value="describe how these are placed in smart contracts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2562" y="2464" width="110" height="30" as="geometry" />
+          <mxGeometry x="-2882" y="2570" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Chfow_NM1OoRrulX9sB1-1" value="then for Each component:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2602" y="2060" width="60" height="50" as="geometry" />
